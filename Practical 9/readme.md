@@ -1,4 +1,4 @@
-### Practical 2
+### Practical 9
 This folder contains the dataset files and code notebook for Practical 9, i.e PCA
 
 Principal Component Analysis (PCA)
